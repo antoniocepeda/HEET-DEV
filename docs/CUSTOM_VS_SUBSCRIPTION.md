@@ -1,6 +1,6 @@
 # Custom Development vs. Cloud Services Breakdown
 
-To address the question of what percentage of our proposal is custom, it's important to understand that modern software development often combines custom code with cloud infrastructure. Here's an approximate breakdown:
+Your platform is built primarily with custom code, leveraging cloud services only for essential infrastructure. Here's how it breaks down:
 
 ## Estimated Breakdown:
 - Custom Development: ~80%
